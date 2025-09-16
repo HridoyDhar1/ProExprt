@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "986123763272",
+    "project_id": "proexprt-app",
+    "storage_bucket": "proexprt-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986123763272:android:f12e882cb1d2fb0f6ba27d",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUsjRXvpq5XBatyWcAzNfEUCY7iAM2f88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
